@@ -20,6 +20,17 @@ public class FourSquare {
 	
 			// 8. Turn the robot 90 degrees to the right
 
+		Robot walle = new Robot();
+		walle.setSpeed(100);
+		
+		public static void drawSquare()
+		
+		for (int i = 0; i < 10; i++) {
+			walle.setRandomPenColor();
+			
+		}
+		
+		
 	}
 
 	
